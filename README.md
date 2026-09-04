@@ -1,5 +1,7 @@
 # c64dresserclock
 
+![Running clock](screenshot.png)
+
 A Commodore 64 port of [c128dresserclock](../c128dresserclock), a
 Copal-style dresser flip clock. Text-mode digits stand in for flipping
 cards; the time comes from a small PowerShell TCP server over the
