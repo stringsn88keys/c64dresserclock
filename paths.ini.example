@@ -1,0 +1,6 @@
+[VICE]
+RootPath="C:\path\to\root\of\vice"
+
+[CC65]
+RootPath="c:\path\to\cc65"
+
